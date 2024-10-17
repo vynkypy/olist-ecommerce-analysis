@@ -41,4 +41,4 @@ The Olist dataset includes:
 
 1. **Clone this repository**:
    ```bash
-   git clone https://github.com/yourusername/olist-ecommerce-analysis.git
+   git clone https://github.com/vynkypy/olist-ecommerce-analysis.git
